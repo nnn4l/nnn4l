@@ -1,4 +1,4 @@
-Currently working on (yet another) shooter game
+✨ Currently working on (yet another) shooter game
 
 <!--
 **nnn4l/nnn4l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
