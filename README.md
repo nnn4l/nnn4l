@@ -1,5 +1,5 @@
 - ✨ Currently working on (yet another) shooter game
-- 💻 I love game development and coding
+- 💻 I enjoy game development and coding
 - 📚 Currently a junior in high school
 
 [![nnn4l's Github stats](https://github-readme-stats.vercel.app/api?username=nnn4l)](https://github.com/anuraghazra/github-readme-stats)
