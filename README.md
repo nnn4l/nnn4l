@@ -1,4 +1,8 @@
 ✨ Currently working on (yet another) shooter game
+💻 I love game development and coding
+📚 Currently a junior in high school
+
+## 🚀 Tools
 
 <!--
 **nnn4l/nnn4l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
