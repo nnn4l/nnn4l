@@ -1,6 +1,7 @@
-✨ Currently working on (yet another) shooter game
-💻 I love game development and coding
-📚 Currently a junior in high school
+## Hello
+- ✨ Currently working on (yet another) shooter game
+- 💻 I love game development and coding
+- 📚 Currently a junior in high school
 
 ## 🚀 Tools
 
