@@ -1,7 +1,3 @@
-- ✨ Working on (yet another) shooter game
-- 💻 I enjoy game development and coding
-- 📚 Currently a junior in high school
-
 [![nnn4l's Github stats](https://github-readme-stats.vercel.app/api?username=nnn4l&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nnn4l/nnn4l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
